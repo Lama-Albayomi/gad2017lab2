@@ -14,7 +14,7 @@ public class MelonEvrywhere : MonoBehaviour {
 	void Update () {
 		if (Input.GetKeyDown(KeyCode.Space))
         {
-            Instantiate(Karpuz,new Vector2 (Random.Range(-5f,5f),Random.Range(-10f,10f)), Quaternion.identity);
+            Instantiate(Karpuz,new Vector2 (Random.Range(-9f,9f),Random.Range(-5f,5f)), Quaternion.identity);
         }
 	}
 }
