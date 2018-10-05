@@ -136,6 +136,7 @@ AudioListener:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
+<<<<<<< HEAD:lab#2 version control/Assets/Scenes/SampleScene.unity
 <<<<<<< HEAD:lab#2 version control/Assets/Scenes/Da game.unity
 --- !u!114 &519420030
 MonoBehaviour:
@@ -151,6 +152,8 @@ MonoBehaviour:
   Karpuz: {fileID: 1038626950949794, guid: 68063a3a21d2444489872ed044f0df5b, type: 2}
 =======
 >>>>>>> parent of 8426047... Watermelons are verywhere:lab#2 version control/Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of 8426047... Watermelons are verywhere:lab#2 version control/Assets/Scenes/SampleScene.unity
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -160,9 +163,12 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
+<<<<<<< HEAD:lab#2 version control/Assets/Scenes/SampleScene.unity
 <<<<<<< HEAD:lab#2 version control/Assets/Scenes/Da game.unity
   m_BackGroundColor: {r: 0.254984, g: 0.26588646, b: 0.2830189, a: 0}
 =======
+=======
+>>>>>>> parent of 8426047... Watermelons are verywhere:lab#2 version control/Assets/Scenes/SampleScene.unity
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
@@ -207,6 +213,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:lab#2 version control/Assets/Scenes/SampleScene.unity
 <<<<<<< HEAD:lab#2 version control/Assets/Scenes/Da game.unity
 <<<<<<< HEAD
 --- !u!1001 &961443444
@@ -399,5 +406,7 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> a206436a4868c316e21109fe123216fab7df1d7e
+=======
+>>>>>>> parent of 8426047... Watermelons are verywhere:lab#2 version control/Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of 8426047... Watermelons are verywhere:lab#2 version control/Assets/Scenes/SampleScene.unity
